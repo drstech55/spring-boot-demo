@@ -74,4 +74,9 @@ C:\Users\Administrator\Downloads\demo (2)\demo>
 
 
 'mvn' is not recognized as an internal or external command,
+
 operable program or batch file.
+
+Downloaded from central: https://repo.maven.apache.org/maven2/org/antlr/antlr4-runtime/4.7.2/antlr4-runtime-4.7.2.jar (338 kB at 758 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/jdom/jdom2/2.0.6.1/jdom2-2.0.6.1.jar (328 kB at 732 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/vafer/jdependency/2.10/jdependency-2.10.jar (416 kB at 920 kB/s)
