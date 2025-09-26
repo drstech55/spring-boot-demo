@@ -21,7 +21,7 @@ pipeline {
 
         stage('Run') {
             steps {
-                bat 'java -jar target\\demo-0.0.1-SNAPSHOT.jar --server.port=9090'
+                bat 'java -jar target\\demo-0.0.1-SNAPSHOT.jar'
             }
         }
     }
